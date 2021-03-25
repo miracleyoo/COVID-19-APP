@@ -27,12 +27,13 @@ Also, you can customize the return value, like you can return a list of all thes
 ## Attention
 
 1. Remember to apply for a **Google Map API Key** [(click this link to apply)](https://developers.google.com/maps/gmp-get-started) and copy your key into file `gradle.properties` file in your root folder. Replace the value in the line `GOOGLE_MAPS_API_KEY=INPUT_YOUR_API_KEY` by your key string. **OR YOU CAN NOT USE THE MAP**.
- 
 2. If you want to change the main UI or any functionalities, feel free to do that as long as you can make sure the tasks required can be finished.
-
 3. All important tasks left for you are wrapped with `\\\\\\\\\\\\\\\\\\\\\\\\\\\`, search them and try to understand the code, as well as implement your own ideas.
-
 4. The button and TextView in the bottom is empty. They are not binded or given any function. They are left for you to implement whatever function you like.
+
+## Ideas and Guidelines
+
+Please refer to the `reference/COVID-19-Apps_Ideas_Summary.pdf`.
 
 ## Reference
 
